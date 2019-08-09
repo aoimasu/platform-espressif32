@@ -55,7 +55,7 @@
     "framework-espidf": {
       "type": "framework",
       "optional": true,
-      "version": ">=3.1.5"
+      "version": "https://github.com/espressif/esp-idf.git"
     },
     "framework-simba": {
       "type": "framework",
